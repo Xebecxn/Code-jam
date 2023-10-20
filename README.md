@@ -46,13 +46,15 @@ Contributing to **Code-jam** is easy, and we welcome developers of all skill lev
 
 4. Push to Your Fork: Push your changes to your fork on GitHub.
 
-  ```bash
-     git push origin your-feature-branch
-5. Create a Pull Request: Open a pull request (PR) to the main repository, explaining your changes and why they should be merged.
+   ```bash
+   git push origin your-feature-branch
 
-6. Review and Collaborate: Collaborate with the community by discussing and reviewing PRs.
+6. Create a Pull Request: Open a pull request (PR) to the main repository, explaining your changes and why they should be merged.
 
-7. Merge: Once your PR is approved, it will be merged into the main repository.
+7. Review and Collaborate: Collaborate with the community by discussing and reviewing PRs.
+
+8. Merge: Once your PR is approved, it will be merged into the main repository.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+ 
